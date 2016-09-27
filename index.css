@@ -8,3 +8,10 @@
     font-style: normal;
     text-decoration: none;
 }
+.footer {
+  height: 200px;
+  width: auto;
+  background-color: #8B0000;
+  opacity: 10%;
+  filter: alpha(opacity=10);
+}
