@@ -55,7 +55,7 @@ color: black;
 }
 
 .elephant {
-    margin-bottom: 3px;
+    margin-bottom: 1px;
     background-image: url('https://images.unsplash.com/photo-1438866612080-aba418f9046c?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=976&q=80&cs=tinysrgb');
     background-size: cover;
     height: 80%;
@@ -97,7 +97,7 @@ h2 {
 .bottom img {
     width: 33%;
     height: 30%;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 /*-------------Média queries-------------*/
@@ -121,6 +121,16 @@ h2 {
   opacity: 1;
 }
 
+#twitter {
+  height: 40px;
+  width: 40px;
+}
+
+.social {
+  text-align: center;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
 .SavannahSize {
   font-size: 25px;
 }
