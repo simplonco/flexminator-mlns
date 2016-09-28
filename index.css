@@ -8,10 +8,56 @@
     font-style: normal;
     text-decoration: none;
 }
+.elephant {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://images.unsplash.com/photo-1438866612080-aba418f9046c?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=976&q=80&cs=tinysrgb');
+    background-size: cover;
+    border: 1px solid grey;
+    z-index: 9
+}
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size:60px;
+  color: white;
+  opacity: 0.8;
+}
 .footer {
   height: 200px;
   width: auto;
-  background-color: #8B0000;
-  opacity: 10%;
-  filter: alpha(opacity=10);
+  background-color: rgba(179, 0, 0, 0.1);
+  opacity: 1;
+  z-index: 1
+}
+
+p {
+font-family: 'Playfair Display', serif;
+color: black;
+}
+.SavannahSize {
+  font-size: 25px;
+}
+/*.imgTwit {
+  height: auto;
+  width: 60px;
+  position: absolute;
+  top: 120px;
+  left: 90%;
+}
+.imgFb {
+  height: auto;
+  width: 60px;
+  position: absolute;
+  top: 40px;
+  left: 90%;
+}
+.textTwit {
+  position: absolute;
+  top: 60px;
+  left: 85%;
+}
+.textFb {
+  position: absolute;
+  top: 132px;
+  left: 83%;*/
 }
